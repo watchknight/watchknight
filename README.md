@@ -34,6 +34,7 @@
   <a href="#-tech-arsenal"><b>Tech Arsenal</b></a> •
   <a href="#-github-telemetry"><b>GitHub Stats</b></a> •
   <a href="#-contribution-snake-arena"><b>Snake Arena</b></a> •
+  <a href="#-coding-atmosphere--philosophy"><b>Lo-Fi Station</b></a> •
   <a href="#-connect--collaborate"><b>Connect</b></a>
 </p>
 
@@ -87,6 +88,38 @@ export default engineer;
    </td>
   </tr>
 </table>
+
+<br/>
+
+### 🎯 2026 Engineering Roadmap & Active Pursuits
+
+```text
+Interactive Web Physics & Canvases : [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 85% — Polishing zero-gravity dynamics
+Cognitive Productivity Systems    : [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 80% — Expanding FocusGuard flow states
+Distributed Cloud Architecture     : [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% — Scaling backend event-driven APIs
+Open-Source Community Ecosystem    : [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░] 70% — Building modular developer utilities
+```
+
+<br/>
+
+<details>
+  <summary><b>💻 Click to view Workstation, Shell &amp; Environment Specs</b></summary>
+  <br/>
+
+```bash
+                  watchknight@workstation
+                  -----------------------
+  OS             : Linux (Ubuntu / WSL2) & Windows 11 Pro
+  Terminal       : Windows Terminal & Alacritty (Starship Prompt)
+  Editor         : VS Code & Cursor (Tokyo Night Dark + Vim Bindings)
+  Font           : Fira Code Retina with Ligatures
+  Shell          : zsh 5.9 / Bash 5.2 / PowerShell Core
+  Stack Core     : TypeScript, React, Next.js, Node.js, Tailwind CSS
+  Productivity   : Obsidian (Zettelkasten), FocusGuard, Notion
+  Daily Drink    : Fresh Green Tea 🍵
+```
+
+</details>
 
 <br/>
 
@@ -272,16 +305,18 @@ export default engineer;
 
 <div align="center">
 
-<!-- Ambient Lofi & Philosophy Card -->
+<!-- Animated SVG Audio Player Widget -->
+<p align="center">
+  <img src="assets/audio-player.svg" width="600" alt="Lo-Fi Coding Beats &amp; Equalizer" />
+</p>
+
+<br/>
+
+<!-- Philosophy Card -->
 <table>
   <tr>
     <td align="center" style="background-color: #0d1117; padding: 20px; border-radius: 14px; border: 1px solid #30363d;">
-      <p style="font-size: 15px; margin-bottom: 8px;">
-        <b>🎵 CURRENT VIBE:</b> <i>Deep Flow • Ambient Lo-Fi Beats & Synthesizers</i> 🍵 🎧
-      </p>
-      <code>[ ■■■■■■■■■■■■□□□□□□□□ 60% — Compiling Mindful Solutions ]</code>
-      <br/><br/>
-      <p style="font-size: 14px; color: #00f5d4; font-family: monospace; margin: 12px 0;">
+      <p style="font-size: 14px; color: #00f5d4; font-family: monospace; margin: 8px 0;">
         "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."
       </p>
       <p style="font-size: 13px; color: #94a3b8;">
@@ -325,13 +360,18 @@ export default engineer;
 
 <br/>
 
+<!-- Community & Crowd-Engaging Guestbook CTA -->
 <p align="center">
+  <a href="https://github.com/watchknight/watchknight/issues/new?title=%F0%9F%93%96+Guestbook+Note+from+a+Visitor&body=Hey+Abdur+Rahman%21+Just+visiting+your+GitHub+profile.+Loved+your+work+on+Mental-Defrag%21">
+    <img src="https://img.shields.io/badge/📖_Sign_My_Guestbook-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Sign Guestbook"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/watchknight?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐%20Explore%20All%20My%20Repositories-FFD700?style=for-the-badge&logoColor=black" alt="Explore Repositories"/>
+    <img src="https://img.shields.io/badge/⭐_Explore_All_Repos-FFD700?style=for-the-badge&logoColor=black" alt="Explore Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/watchknight/watchknight/issues/new?title=Hello%20Moayed!&body=Let's%20collaborate%20on%20something%20awesome!">
-    <img src="https://img.shields.io/badge/💬%20Start%20a%20Discussion-7928CA?style=for-the-badge&logoColor=white" alt="Start a Discussion"/>
+    <img src="https://img.shields.io/badge/💬_Start_a_Discussion-7928CA?style=for-the-badge&logoColor=white" alt="Start a Discussion"/>
   </a>
 </p>
 
