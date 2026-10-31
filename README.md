@@ -10,10 +10,10 @@
 
 <br/>
 
-<!-- Real-time Status Badges & Visitor Counter -->
+<!-- Real-time Status Badges & Bulletproof Visitor Counter -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Location-Dhaka%2C_Bangladesh_🇧🇩-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
-  <img src="https://api.visitorbadge.io/api/visitors?pageId=watchknight.watchknight&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300f5d4&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=watchknight&style=for-the-badge&color=00f5d4&labelColor=0d1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building_Ambient_Tech-7928CA?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Collaborations-Open-0070F3?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Collaborations" />
 </p>
@@ -226,36 +226,32 @@ export default engineer;
 
 <div align="center">
 
-<!-- GitHub Trophies -->
+<!-- Developer Badges & Milestones -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=watchknight&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="WatchKnight's Trophies" />
+  <img src="https://img.shields.io/badge/Achievement-Full--Stack_Architect-7928CA?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialist-TypeScript_%26_React-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pioneer-Zero--Gravity_Canvas-00F5D4?style=for-the-badge&logo=canvas&logoColor=black" />
+  <img src="https://img.shields.io/badge/Craft-Open_Source_Builder-FF007F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br/>
 
-<!-- Stats Grid -->
+<!-- Stats Grid using Reliable & High-Performance Endpoints -->
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=watchknight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8&icon_color=ff007f&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=watchknight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8&icon_color=ff007f&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=watchknight&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="GitHub Streak" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=watchknight&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchknight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8" alt="Top Languages" width="80%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=watchknight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=94a3b8" alt="Top Languages" width="80%"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watchknight&theme=tokyo-night&bg_color=0d1117&color=00f5d4&line=7928ca&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
 
 </div>
 
@@ -267,26 +263,24 @@ export default engineer;
 
 <div align="center">
 
-<!-- Ambient Lofi Card -->
+<!-- Ambient Lofi & Philosophy Card -->
 <table>
   <tr>
-    <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 12px;">
-      <p>
+    <td align="center" style="background-color: #0d1117; padding: 20px; border-radius: 14px; border: 1px solid #30363d;">
+      <p style="font-size: 15px; margin-bottom: 8px;">
         <b>🎵 CURRENT VIBE:</b> <i>Deep Flow • Ambient Lo-Fi Beats & Synthesizers</i> ☕ 🎧
       </p>
       <code>[ ■■■■■■■■■■■■□□□□□□□□ 60% — Compiling Mindful Solutions ]</code>
       <br/><br/>
-      <i>"Good code is its own best documentation. As you're about to add a comment, ask yourself: How can I improve the code so that this comment isn't needed?"</i>
-      <br/>
-      <small>— Steve McConnell</small>
+      <p style="font-size: 14px; color: #00f5d4; font-family: monospace; margin: 12px 0;">
+        "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."
+      </p>
+      <p style="font-size: 13px; color: #94a3b8;">
+        <i>"Code is like humor. When you have to explain it, it’s bad."</i> — Cory House
+      </p>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- Dynamic Dev Joke / Byte -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&hideBorder=true&textColor=00f5d4&qColor=e2e8f0" alt="Daily Developer Joke" />
 
 </div>
 
