@@ -3,6 +3,15 @@
 <!-- ==================== HERO HEADER ==================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26,30&height=260&section=header&text=Abdur%20Rahman%20Moayed%20✨&fontSize=42&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Creative%20Engineer%20•%20Full-Stack%20Developer%20•%20Open-Source%20Builder&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
+<br/>
+
+<!-- ==================== ANIMATED CYBER AVATAR ==================== -->
+<a href="https://github.com/watchknight">
+  <img src="assets/animated-avatar.svg" width="210" alt="Abdur Rahman Moayed (@watchknight)" />
+</a>
+
+<br/><br/>
+
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/watchknight">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Crafting+Ambient+Web+Canvases+%26+Zero-Gravity+UI;Architect+of+Mental-Defrag%2C+FocusGuard+%26+DocLensBD;TypeScript+Specialist+%26+Modern+Full-Stack+Engineer;Designing+Mindful%2C+High-Performance+Digital+Experiences" alt="Typing SVG" />
@@ -41,7 +50,7 @@
     <td width="60%" valign="top">
       <h3>Hey there, traveler of the web! 👋</h3>
       <p>
-        I'm <b>Abdur Rahman Moayed</b> (widely known across cyberspace as <b>WatchKnight</b>). I am a passionate software craftsman and creative engineer based in <b>Dhaka, Bangladesh</b>.
+        I'm <b>Abdur Rahman Moayed</b> (widely known across cyberspace as <b>WatchKnight</b>). I am a passionate software craftsman and creative engineer based in <b>Dhaka, Bangladesh 🇧🇩</b>.
       </p>
       <p>
         My work sits at the intersection of <b>mindful computing</b>, <b>ambient digital canvases</b>, and <b>scalable web architecture</b>. I believe software should not simply accomplish a task—it should feel intuitive, fluid, and delightful to experience.
