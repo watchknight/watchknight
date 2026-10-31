@@ -78,7 +78,7 @@ const engineer: Developer = {
     "Deep Focus Tools",
     "TypeScript & Scalable UX"
   ],
-  fuel: ["Quality Coffee ☕", "Curiosity 🚀"]
+  fuel: ["Quality Tea 🍵", "Curiosity 🚀"]
 };
 
 export default engineer;
@@ -277,7 +277,7 @@ export default engineer;
   <tr>
     <td align="center" style="background-color: #0d1117; padding: 20px; border-radius: 14px; border: 1px solid #30363d;">
       <p style="font-size: 15px; margin-bottom: 8px;">
-        <b>🎵 CURRENT VIBE:</b> <i>Deep Flow • Ambient Lo-Fi Beats & Synthesizers</i> ☕ 🎧
+        <b>🎵 CURRENT VIBE:</b> <i>Deep Flow • Ambient Lo-Fi Beats & Synthesizers</i> 🍵 🎧
       </p>
       <code>[ ■■■■■■■■■■■■□□□□□□□□ 60% — Compiling Mindful Solutions ]</code>
       <br/><br/>
